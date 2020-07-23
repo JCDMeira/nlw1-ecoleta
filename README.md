@@ -41,5 +41,7 @@ Essa tela foi adicionada a mais na proposta da NLW, tendo como base a tela de ca
 
 # Meios de contato
 ## Jean Carlos De Meira
-[Linkedin] (https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)
-[Instagram](https://www.instagram.com/jean.meira10/?hl=pt-br)
+
+Perfil do linkedin - [Linkedin](https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)
+
+Perfil do instagram - [Instagram](https://www.instagram.com/jean.meira10/?hl=pt-br)
