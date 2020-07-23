@@ -29,7 +29,7 @@ Ao participar da NLW desenvolvi o site proposto na trilha starter ministrada pel
 ![](./telas/tela_busca.png)
 
 ### Tela de resultados da busca
-![](./telas/tela_resultados.png)
+![](./telas/resultados.png)
 
 ### Tela indicando cadastro concluído
 ![](./telas/cadastro_concluido.png)
