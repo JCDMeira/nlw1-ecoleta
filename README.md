@@ -38,3 +38,8 @@ Ao participar da NLW desenvolvi o site proposto na trilha starter ministrada pel
 ![](./telas/cadastro_falhou.png)
 
 Essa tela foi adicionada a mais na proposta da NLW, tendo como base a tela de cadastro concluído
+
+# Meios de contato
+## Jean Carlos De Meira
+[Linkedin] (https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)
+[Instagram](https://www.instagram.com/jean.meira10/?hl=pt-br)
