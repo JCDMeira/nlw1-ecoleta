@@ -1,3 +1,5 @@
+<p  align="center"><img src="nlw_logo.svg" align="center"></img></p>
+
 # ECOLETA
 
 O ecoleta é um site criado acompanhando a primeira edição new level week (NLW), evento que acelera o aprendizado em programação que é realizado pela RocketSeat. 
@@ -7,6 +9,14 @@ RocketSeat é não só uma plataforma de educação em tecnologia, mais também 
 
 [RocketSeat](https://rocketseat.com.br)
 
+## Tecnologias utilizadas
+- [x] HTML
+- [x] CSS
+- [x] Javascript
+- [x] NodeJS
+- [x] Nunjucks
+- [x] Express
+- [x] SQLite3
 
 ## Autores e instrutores da NLW
 
